@@ -1,6 +1,7 @@
-from pyscript import Element
+from js import document
 
 from pass_gen import pass_gen
 
 def generate_pass():
-    Element("output").write(pass_gen(Element("input").value))
+    p = document.getElementById("input").value
+    document.getElementById("output").value = pass_gen(p)
