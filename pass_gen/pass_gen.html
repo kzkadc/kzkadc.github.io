@@ -13,7 +13,7 @@
 <body>
     <py-config>
         [[fetch]]
-        files = ["./pass_gen.py"]
+        files = ["./js_utils.py", "./pass_gen.py"]
     </py-config>
 
     <div class="container">
@@ -31,6 +31,7 @@
             <span class="input-group-text">Output</span>
             <input type="text" class="form-control" id="output" disabled>
         </div>
+        <div class="mb-3" id="message"></div>
     </div>
 
     <py-script src="event.py"></py-script>

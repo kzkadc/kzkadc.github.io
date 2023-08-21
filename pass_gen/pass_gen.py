@@ -1,5 +1,7 @@
 import hashlib
 
+from js import document, navigator
+
 
 START, END = 33, 127
 CHARS = "".join(chr(c) for c in range(START, END))
