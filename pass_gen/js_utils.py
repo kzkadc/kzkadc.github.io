@@ -10,4 +10,4 @@ def copy_to_clipboard(val: str) -> bool:
 
 
 def display_message(m: str):
-    document.body.getElementById("message").innerHTML = m
+    document.getElementById("message").innerHTML = m
