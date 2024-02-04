@@ -2,6 +2,7 @@
 
 Researcher at Computer and Data Science Laboratories, NTT.
 
-`kazuki.adachi.xy [at] gmail.com`
-
 [![GitHub](assets/GitHub-Mark-32px.png)](https://github.com/kzkadc)
+
+## Publications
+{% include_relative generated_publications.md %}
