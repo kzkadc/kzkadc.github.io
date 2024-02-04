@@ -11,7 +11,7 @@ def main():
         papers = []
         for paper in section["papers"]:
             authors = ", ".join(paper["authors"])
-            bib = f"- {authors}, \"**{paper['title']}**\" {paper['published_in']}"
+            bib = f"- {authors}. \"**{paper['title']}**\" {paper['published_in']}"
 
             links = []
             if url := paper.get("publication_url"):
