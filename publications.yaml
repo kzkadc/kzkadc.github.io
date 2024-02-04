@@ -1,0 +1,75 @@
+- section_name: International Conference / Journal
+  papers:
+    - authors:
+        - &adachi "**Kazuki Adachi**"
+        - &yamaguchi Shin'ya Yamaguchi
+        - &kumagai Atsutoshi Kumagai
+      title: Covariance-aware Feature Alignment with Pre-computed Source Statistics for Test-time Adaptation to Multiple Image Corruptions
+      published_in: 2023 IEEE International Conference on Image Processing (ICIP), 2023.
+      publication_url: https://ieeexplore.ieee.org/abstract/document/10222901
+      preprint_url: https://arxiv.org/abs/2204.13263
+
+    - authors:
+        - Yasutoshi Ida
+        - Sekitoshi Kanai
+        - *adachi
+        - *kumagai
+        - Yasuhiro Fujiwara
+      title: Fast Regularized Discrete Optimal Transport With Group-Sparse Regularizers
+      published_in: Proceedings of the AAAI Conference on Artificial Intelligence, vol. 37, no. 7, June 2023, pp. 7980-7, doi:10.1609/aaai.v37i7.25965.
+      publication_url: https://ojs.aaai.org/index.php/AAAI/article/view/25965
+      preprint_url: https://arxiv.org/abs/2303.07597
+
+    - authors:
+        - *adachi
+        - *yamaguchi
+      title: Learning Robust Convolutional Neural Networks with Relevant Feature Focusing Via Explanations
+      published_in: "2022 IEEE International Conference on Multimedia and Expo (ICME), Taipei, Taiwan, 2022, pp. 1-6, doi: 10.1109/ICME52920.2022.9859838."
+      publication_url: https://ieeexplore.ieee.org/abstract/document/9859838
+      preprint_url: https://arxiv.org/abs/2202.04237
+
+    - authors:
+        - &adachi_jp "**足立 一樹**"
+        - 濱上 知樹
+      title: 注目領域に基づいたCNNの特徴マップに対する正則化
+      published_in: "電子情報通信学会論文誌D, Vol.J102-D, No.3, pp. 185-193, Mar.2019. DOI: 10.14923/transinfj.2018PDP0023"
+      publication_url: https://doi.org/10.14923/transinfj.2018PDP0023
+
+- section_name: Domestic Conference (Japan)
+  papers:
+    - authors:
+        - *adachi_jp
+        - 山口 真弥
+      title: 深層学習モデルの判断根拠を利用した偏りを持つデータセットに対する精度向上
+      published_in: 電子情報通信学会パターン認識・メディア理解(PRMU)研究会, 2021年3月.
+      publication_url: https://ken.ieice.org/ken/paper/20210305gCcs/eng/
+
+    - authors:
+        - *adachi_jp
+        - 中田 雅也
+        - 濱上 知樹
+      title: CNNの注目領域を利用した事前知識の組み込みによる正則化
+      published_in: 計測自動制御学会 第45回知能システムシンポジウム講演論文集, B2-1, 2018.
+
+    - authors:
+        - *adachi_jp
+        - 濱上 知樹
+      title: CNNにおける事前知識を利用した学習方法の検討
+      published_in: 第28回インテリジェント・システム・シンポジウム(FAN2018), ST-18-095, 2018.
+
+    - authors:
+        - *adachi_jp
+        - 佐々木 勇人
+        - 中田 雅也
+        - 濱津 文哉
+        - 濱上 知樹
+      title: 転移学習によるDeep Q-Networkの学習高速化に向けた検討
+      published_in: 情報処理学会 第79回全国大会講演論文集, 5M-09, 2017.
+      publication_url: http://id.nii.ac.jp/1001/00180789/
+# - section_name: Other Publications
+#   papers:
+#     - authors:
+#         - *adachi_jp
+#         - 内田 美尋
+#       title: ICIP2023参加報告
+#       published_in: 映像情報メディア学会誌, 2024年3月号
