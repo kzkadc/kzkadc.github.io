@@ -48,6 +48,17 @@
       publication_url: http://id.nii.ac.jp/1001/00180789/
 
     - authors:
+        - 佐々木 勇人
+        - *adachi_jp
+        - *hamagami_jp
+        - 山本 みずき
+        - 竹島 徹平
+        - 湯村 寧
+      title: 生殖医療支援を目的とした顕微鏡動画像における精子検出
+      published_in: 第16回情報科学技術フォーラム(FIT2017), CH-005, 2017.
+      publication_url: https://www.ieice.org/publications/conference-FIT-DVDs/FIT2017/data/pdf/CH-005.pdf
+
+    - authors:
         - *adachi_jp
         - *hamagami_jp
       title: CNNにおける事前知識を利用した学習方法の検討
