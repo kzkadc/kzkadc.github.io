@@ -2,7 +2,7 @@
 
 Researcher at Computer and Data Science Laboratories, NTT.
 
-[![GitHub](assets/GitHub-Mark-32px.png)](https://github.com/kzkadc)
+[[GitHub]](https://github.com/kzkadc) [[Google Scholar]](https://scholar.google.com/citations?user=hZC9Yy8AAAAJ)
 
 ## Publications
 {% include_relative generated_publications.md %}
