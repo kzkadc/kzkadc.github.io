@@ -1,15 +1,22 @@
 - section_name: International Conference / Journal
+  aliases:
+    - &adachi "**Kazuki Adachi**"
+    - &adachi_jp "**足立 一樹**"
+    - &yamaguchi Shin'ya Yamaguchi
+    - &kumagai Atsutoshi Kumagai
+    - &hamagami_jp 濱上 知樹
+
   papers:
     - authors:
-        - &adachi_jp "**足立 一樹**"
-        - &hamagami_jp 濱上 知樹
+        - *adachi_jp
+        - *hamagami_jp
       title: 注目領域に基づいたCNNの特徴マップに対する正則化
       published_in: "電子情報通信学会論文誌D, Vol.J102-D, No.3, pp. 185-193, Mar.2019. DOI: 10.14923/transinfj.2018PDP0023"
       publication_url: https://doi.org/10.14923/transinfj.2018PDP0023
 
     - authors:
-        - &adachi "**Kazuki Adachi**"
-        - &yamaguchi Shin'ya Yamaguchi
+        - *adachi
+        - *yamaguchi
       title: Learning Robust Convolutional Neural Networks with Relevant Feature Focusing Via Explanations
       published_in: "2022 IEEE International Conference on Multimedia and Expo (ICME), Taipei, Taiwan, 2022, pp. 1-6, doi: 10.1109/ICME52920.2022.9859838."
       publication_url: https://ieeexplore.ieee.org/abstract/document/9859838
@@ -19,7 +26,7 @@
         - Yasutoshi Ida
         - Sekitoshi Kanai
         - *adachi
-        - &kumagai Atsutoshi Kumagai
+        - *kumagai
         - Yasuhiro Fujiwara
       title: Fast Regularized Discrete Optimal Transport With Group-Sparse Regularizers
       published_in: Proceedings of the AAAI Conference on Artificial Intelligence, vol. 37, no. 7, June 2023, pp. 7980-7, doi:10.1609/aaai.v37i7.25965.
@@ -31,7 +38,7 @@
         - *yamaguchi
         - *kumagai
       title: Covariance-aware Feature Alignment with Pre-computed Source Statistics for Test-time Adaptation to Multiple Image Corruptions
-      published_in: 2023 IEEE International Conference on Image Processing (ICIP), 2023.
+      published_in: "2023 IEEE International Conference on Image Processing (ICIP), Kuala Lumpur, Malaysia, 2023, pp. 800-804, doi: 10.1109/ICIP49359.2023.10222901."
       publication_url: https://ieeexplore.ieee.org/abstract/document/10222901
       preprint_url: https://arxiv.org/abs/2204.13263
 
@@ -75,12 +82,13 @@
         - *adachi_jp
         - 山口 真弥
       title: 深層学習モデルの判断根拠を利用した偏りを持つデータセットに対する精度向上
-      published_in: 電子情報通信学会パターン認識・メディア理解(PRMU)研究会, 2021年3月.
+      published_in: 電子情報通信学会パターン認識・メディア理解(PRMU)研究会, 2021年3月. (2020年度PRMU研究奨励賞)
       publication_url: https://ken.ieice.org/ken/paper/20210305gCcs/eng/
-# - section_name: Other Publications
-#   papers:
-#     - authors:
-#         - *adachi_jp
-#         - 内田 美尋
-#       title: ICIP2023参加報告
-#       published_in: 映像情報メディア学会誌, 2024年3月号
+
+- section_name: Other Publications
+  papers:
+    - authors:
+        - *adachi_jp
+        - 内田 美尋
+      title: ICIP2023参加報告
+      published_in: 映像情報メディア学会誌, 2024年3月号 (Vol.78 No.2)
