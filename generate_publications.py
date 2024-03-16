@@ -11,15 +11,24 @@ def main():
         papers = []
         for paper in section["papers"][::-1]:
             authors = ", ".join(paper["authors"])
-            bib = f"- {authors}. \"**{paper['title']}**\" {paper['published_in']}"
+            title = paper['title']
+            pub = paper['published_in']
+            bib = f"- {authors}. \"**{title}**\" {pub}"
 
-            links = []
-            if url := paper.get("publication_url"):
-                links.append(f"[[Paper]]({url})")
-            if url := paper.get("preprint_url"):
-                links.append(f"[[Preprint]]({url})")
-            if len(links) >= 1:
-                bib += f"  \n{' '.join(links)}"
+            # links = []
+            # if url := paper.get("publication_url"):
+            #     links.append(f"[[Paper]]({url})")
+            # if url := paper.get("preprint_url"):
+            #     links.append(f"[[Preprint]]({url})")
+            # if len(links) >= 1:
+            #     bib += f"  \n{' '.join(links)}"
+
+            link_list = []
+            for link in paper.get("links", []):
+                text, url = next(iter(link.items()))
+                link_list.append(f"[[{text}]]({url})")
+            if len(link_list) >= 1:
+                bib += f"  \n{' '.join(link_list)}"
 
             papers.append(bib)
 

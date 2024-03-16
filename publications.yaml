@@ -1,4 +1,4 @@
-- section_name: International Conference / Journal
+- section_name: International Conference / Journal (Peer-reviewed)
   aliases:
     - &adachi "**Kazuki Adachi**"
     - &adachi_jp "**足立 一樹**"
@@ -12,15 +12,17 @@
         - *hamagami_jp
       title: 注目領域に基づいたCNNの特徴マップに対する正則化
       published_in: "電子情報通信学会論文誌D, Vol.J102-D, No.3, pp. 185-193, Mar.2019. DOI: 10.14923/transinfj.2018PDP0023"
-      publication_url: https://doi.org/10.14923/transinfj.2018PDP0023
+      links:
+        - Paper: https://doi.org/10.14923/transinfj.2018PDP0023
 
     - authors:
         - *adachi
         - *yamaguchi
       title: Learning Robust Convolutional Neural Networks with Relevant Feature Focusing Via Explanations
       published_in: "2022 IEEE International Conference on Multimedia and Expo (ICME), Taipei, Taiwan, 2022, pp. 1-6, doi: 10.1109/ICME52920.2022.9859838."
-      publication_url: https://ieeexplore.ieee.org/abstract/document/9859838
-      preprint_url: https://arxiv.org/abs/2202.04237
+      links:
+        - Paper: https://ieeexplore.ieee.org/abstract/document/9859838
+        - Preprint: https://arxiv.org/abs/2202.04237
 
     - authors:
         - Yasutoshi Ida
@@ -30,8 +32,9 @@
         - Yasuhiro Fujiwara
       title: Fast Regularized Discrete Optimal Transport With Group-Sparse Regularizers
       published_in: Proceedings of the AAAI Conference on Artificial Intelligence, vol. 37, no. 7, June 2023, pp. 7980-7, doi:10.1609/aaai.v37i7.25965.
-      publication_url: https://ojs.aaai.org/index.php/AAAI/article/view/25965
-      preprint_url: https://arxiv.org/abs/2303.07597
+      links:
+        - Paper: https://ojs.aaai.org/index.php/AAAI/article/view/25965
+        - Preprint: https://arxiv.org/abs/2303.07597
 
     - authors:
         - *adachi
@@ -39,8 +42,10 @@
         - *kumagai
       title: Covariance-aware Feature Alignment with Pre-computed Source Statistics for Test-time Adaptation to Multiple Image Corruptions
       published_in: "2023 IEEE International Conference on Image Processing (ICIP), Kuala Lumpur, Malaysia, 2023, pp. 800-804, doi: 10.1109/ICIP49359.2023.10222901."
-      publication_url: https://ieeexplore.ieee.org/abstract/document/10222901
-      preprint_url: https://arxiv.org/abs/2204.13263
+      links:
+        - Paper: https://ieeexplore.ieee.org/abstract/document/10222901
+        - Preprint: https://arxiv.org/abs/2204.13263
+        - Poster: https://sigport.org/documents/covariance-aware-feature-alignment-pre-computed-source-statistics-test-time-adaptation
 
 - section_name: Domestic Conference (Japan)
   papers:
@@ -52,7 +57,8 @@
         - *hamagami_jp
       title: 転移学習によるDeep Q-Networkの学習高速化に向けた検討
       published_in: 情報処理学会 第79回全国大会講演論文集, 5M-09, 2017.
-      publication_url: http://id.nii.ac.jp/1001/00180789/
+      links:
+        - Paper: http://id.nii.ac.jp/1001/00180789/
 
     - authors:
         - 佐々木 勇人
@@ -63,7 +69,8 @@
         - 湯村 寧
       title: 生殖医療支援を目的とした顕微鏡動画像における精子検出
       published_in: 第16回情報科学技術フォーラム(FIT2017), CH-005, 2017.
-      publication_url: https://www.ieice.org/publications/conference-FIT-DVDs/FIT2017/data/pdf/CH-005.pdf
+      links:
+        - Paper: https://www.ieice.org/publications/conference-FIT-DVDs/FIT2017/data/pdf/CH-005.pdf
 
     - authors:
         - *adachi_jp
@@ -83,7 +90,8 @@
         - 山口 真弥
       title: 深層学習モデルの判断根拠を利用した偏りを持つデータセットに対する精度向上
       published_in: 電子情報通信学会パターン認識・メディア理解(PRMU)研究会, 2021年3月. (2020年度PRMU研究奨励賞)
-      publication_url: https://ken.ieice.org/ken/paper/20210305gCcs/eng/
+      links:
+        - Paper: https://ken.ieice.org/ken/paper/20210305gCcs/eng/
 
 - section_name: Other Publications
   papers:
