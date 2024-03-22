@@ -47,6 +47,37 @@
         - Preprint: https://arxiv.org/abs/2204.13263
         - Poster: https://sigport.org/documents/covariance-aware-feature-alignment-pre-computed-source-statistics-test-time-adaptation
 
+    - authors:
+        - *yamaguchi
+        - Sekitoshi Kanai
+        - *adachi
+        - Daiki Chijiwa
+      title: Adaptive Random Feature Regularization on Fine-tuning Deep Neural Networks
+      published_in: To appear in 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+      links:
+        - Preprint: https://arxiv.org/abs/2403.10097
+
+    - authors:
+        - Shohei Enomoto
+        - Naoya Hasegawa
+        - *adachi
+        - Taku Sasaki
+        - *yamaguchi
+        - Satoshi Suzuki
+        - Takeharu Eda
+      title: "Test-Time Adaptation Meets Image Enhancement: Improving Accuracy via Uncertainty-Aware Logit Switching"
+      published_in: To appear in 2024 IEEE WCCI International Joint Conference on Neural Networks (IJCNN).
+
+    - authors:
+        - *adachi
+        - Shohei Enomoto
+        - Taku Sasaki
+        - *yamaguchi
+      title: Test-Time Similarity Modification for Person Re-Identification Toward Temporal Distribution Shift
+      published_in: To appear in 2024 IEEE WCCI International Joint Conference on Neural Networks (IJCNN).
+      links:
+        - Preprint: https://arxiv.org/abs/2403.14114
+
 - section_name: Domestic Conference (Japan)
   papers:
     - authors:
