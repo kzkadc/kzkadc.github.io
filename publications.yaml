@@ -65,7 +65,7 @@
         - *yamaguchi
         - Satoshi Suzuki
         - Takeharu Eda
-      title: "Test-Time Adaptation Meets Image Enhancement: Improving Accuracy via Uncertainty-Aware Logit Switching"
+      title: "Test-Time Adaptation Meets Image Enhancement: Improving Accuracy via Uncertainty-aware Logit Switching"
       published_in: To appear in 2024 IEEE WCCI International Joint Conference on Neural Networks (IJCNN).
       links:
         - Preprint: https://arxiv.org/abs/2403.17423
