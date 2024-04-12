@@ -126,6 +126,16 @@
       links:
         - Paper: https://ken.ieice.org/ken/paper/20210305gCcs/eng/
 
+    - authors:
+        - Taku Sasaki
+        - *adachi
+        - Shohei Enomoto
+        - Yoshihiro Ikeda
+        - Adam Walmsley
+        - *yamaguchi
+      title: Re-training-aware Automatic Model Evaluation for Person Re-identification
+      published_in: 画像の認識・理解シンポジウム (MIRU2023), IS2-77, 2023.
+
 - section_name: Other Publications
   papers:
     - authors:
