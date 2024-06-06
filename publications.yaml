@@ -80,7 +80,7 @@
       links:
         - Preprint: https://arxiv.org/abs/2403.14114
 
-- section_name: Domestic Conference (Japan)
+- section_name: Conference Workshop / Domestic Conference (Japan)
   papers:
     - authors:
         - *adachi_jp
@@ -135,6 +135,15 @@
         - *yamaguchi
       title: Re-training-aware Automatic Model Evaluation for Person Re-identification
       published_in: 画像の認識・理解シンポジウム (MIRU2023), IS2-77, 2023.
+
+    - authors:
+        - *adachi
+        - *yamaguchi
+        - *kumagai
+      title: Test-time Adaptation for Regression by Subspace Alignment
+      published_in: 1st Workshop on Test-time Adaptation (Community Track), CVPR2024 Workshop.
+      links:
+        - Paper: https://tta-cvpr2024.github.io/papers.html
 
 - section_name: Other Publication
   papers:
