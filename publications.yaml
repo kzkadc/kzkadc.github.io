@@ -143,3 +143,24 @@
         - 内田 美尋
       title: ICIP2023参加報告
       published_in: 映像情報メディア学会誌, 2024年3月号 (Vol.78 No.2)
+
+- section_name: Patent
+  papers:
+    - authors:
+        - 塩田 哲哉
+        - 豊田 真智子
+        - *adachi_jp
+        - 石井 方邦
+      title: 可視化装置、可視化方法および可視化プログラム
+      published_in: 特許第7464132号
+      links:
+        - Link: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7464132/15/ja
+
+    - authors:
+        - *adachi_jp
+        - 塩田 哲哉
+        - 豊田 真智子
+      title: 重要度計算装置、重要度計算方法及び重要度計算プログラム
+      published_in: 特許第7491382号
+      links:
+        - Link: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7491382/15/ja
