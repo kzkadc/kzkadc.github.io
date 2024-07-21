@@ -5,7 +5,8 @@ from js import document, navigator
 
 def convert_base(x: int, limited_characters: bool = False) -> str:
     if limited_characters:
-        CHARS = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_-"
+        CHARS = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789" \
+                + "_-" * 5
         BASE = len(CHARS)
     else:
         START, END = 33, 127
