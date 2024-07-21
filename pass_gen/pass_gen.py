@@ -3,12 +3,15 @@ import hashlib
 from js import document, navigator
 
 
-START, END = 33, 127
-CHARS = "".join(chr(c) for c in range(START, END))
-BASE = END - START
+def convert_base(x: int, limited_characters: bool = False) -> str:
+    if limited_characters:
+        CHARS = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789_-"
+        BASE = len(CHARS)
+    else:
+        START, END = 33, 127
+        CHARS = "".join(chr(c) for c in range(START, END))
+        BASE = END - START
 
-
-def convert_base(x: int) -> str:
     result = []
     while True:
         x, r = x // BASE, x % BASE
@@ -19,7 +22,7 @@ def convert_base(x: int) -> str:
     return "".join(result[::-1])
 
 
-def pass_gen(p: str, max_len: int=16) -> str:
+def pass_gen(p: str, max_len: int = 16, limited_characters: bool = False) -> str:
     hs = hashlib.sha256(p.encode()).hexdigest()
     hs_int = int(hs, 16)
     converted_pass = convert_base(hs_int)
