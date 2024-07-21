@@ -25,5 +25,6 @@ def convert_base(x: int, limited_characters: bool = False) -> str:
 def pass_gen(p: str, max_len: int = 16, limited_characters: bool = False) -> str:
     hs = hashlib.sha256(p.encode()).hexdigest()
     hs_int = int(hs, 16)
-    converted_pass = convert_base(hs_int)
+    converted_pass = convert_base(
+        hs_int, limited_characters=limited_characters)
     return converted_pass[:max_len]
