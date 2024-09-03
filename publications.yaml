@@ -148,13 +148,25 @@
         - Paper: https://tta-cvpr2024.github.io/_downloads/5c8596c2798bf34ada89ed342bb08d51/matc_1_test_time_adaptation_for_regre.pdf
         - Poster: /assets/publications/cvpr2024_tta-workshop.pdf
 
-- section_name: Other Publication
+- section_name: Other Publication / Preprint
   papers:
     - authors:
         - *adachi_jp
         - 内田 美尋
       title: ICIP2023参加報告
       published_in: 映像情報メディア学会誌, 2024年3月号 (Vol.78 No.2)
+
+    - authors:
+        - Sekitoshi Kanai
+        - Yasutoshi Ida
+        - *adachi
+        - Mihiro Uchida
+        - Tsukasa Yoshida
+        - *yamaguchi
+      title: Evaluating Time-Series Training Dataset through Lens of Spectrum in Deep State Space Models
+      published_in: arXiv:2408.16261
+      links:
+        - Preprint: https://arxiv.org/abs/2408.16261
 
 - section_name: Patent
   papers:
