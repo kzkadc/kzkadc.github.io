@@ -84,6 +84,15 @@
         - Preprint: https://arxiv.org/abs/2403.14114
         - Poster: /assets/publications/ijcnn2024_reid-tta.pdf
 
+    - authors:
+        - Taku Sasaki
+        - Adam S. Walmsley
+        - *adachi
+        - Shohei Enomoto
+        - *yamaguchi
+      title: Key Factors Determining the Required Number of Training Images in Person Re-Identification
+      published_in: To be published in IEEE Access.
+
 - section_name: Conference Workshop / Domestic Conference (Japan)
   papers:
     - authors:
