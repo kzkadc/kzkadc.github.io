@@ -182,20 +182,22 @@
 - section_name: Patent
   papers:
     - authors:
-        - 塩田 哲哉
-        - 豊田 真智子
-        - *adachi_jp
-        - 石井 方邦
-      title: 可視化装置、可視化方法および可視化プログラム
-      published_in: 特許第7464132号
+        - Tetsuya Shioda
+        - Machiko Toyoda
+        - *adachi
+        - Masakuni Ishii
+      title: VISUALIZATION DEVICE, VISUALIZATION METHOD, AND VISUALIZATION PROGRAM (可視化装置、可視化方法および可視化プログラム)
+      published_in: WO2022/038713, 特許第7464132号
       links:
-        - Link: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7464132/15/ja
+        - WO: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022038713
+        - JP: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7464132/15/ja
 
     - authors:
-        - *adachi_jp
-        - 塩田 哲哉
-        - 豊田 真智子
-      title: 重要度計算装置、重要度計算方法及び重要度計算プログラム
-      published_in: 特許第7491382号
+        - *adachi
+        - Tetsuya Shioda
+        - Machiko Toyoda
+      title: IMPORTANCE DEGREE CALCULATION DEVICE, IMPORTANCE DEGREE CALCULATION METHOD, AND IMPORTANCE DEGREE CALCULATION PROGRAM (重要度計算装置、重要度計算方法及び重要度計算プログラム)
+      published_in: WO2022/038722, 特許第7491382号
       links:
-        - Link: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7491382/15/ja
+        - WO: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022038722
+        - JP: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7491382/15/ja
