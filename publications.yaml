@@ -135,9 +135,20 @@
         - *adachi_jp
         - 山口 真弥
       title: 深層学習モデルの判断根拠を利用した偏りを持つデータセットに対する精度向上
-      published_in: 電子情報通信学会パターン認識・メディア理解(PRMU)研究会, 2021年3月. (2020年度PRMU研究奨励賞)
+      published_in: 電子情報通信学会 パターン認識・メディア理解(PRMU)研究会, 2021年3月. (**2020年度PRMU研究奨励賞**)
       links:
         - Paper: https://ken.ieice.org/ken/paper/20210305gCcs/eng/
+
+    - authors:
+        - 井田 安俊
+        - 金井 関利
+        - *adachi_jp
+        - 熊谷 充敏
+        - 藤原 靖宏
+      title: グループ正則化付き離散最適輸送の高速化
+      published_in: 電子情報通信学会 情報論的学習理論と機械学習研究会(IBISML)研究会, 2023年6月.
+      links:
+        - Paper: https://ken.ieice.org/ken/paper/20230629fCv0/eng/
 
     - authors:
         - Taku Sasaki
