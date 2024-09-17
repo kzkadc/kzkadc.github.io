@@ -91,7 +91,9 @@
         - Shohei Enomoto
         - *yamaguchi
       title: Key Factors Determining the Required Number of Training Images in Person Re-Identification
-      published_in: To be published in IEEE Access.
+      published_in: "IEEE Access, doi: 10.1109/ACCESS.2024.3461739."
+      links:
+        - Paper: https://ieeexplore.ieee.org/document/10681056
 
 - section_name: Conference Workshop / Domestic Conference (Japan)
   papers:
