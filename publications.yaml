@@ -4,6 +4,7 @@
     - &adachi_jp "**足立 一樹**"
     - &yamaguchi Shin'ya Yamaguchi
     - &kumagai Atsutoshi Kumagai
+    - &hamagami Tomoki Hamagami
     - &hamagami_jp 濱上 知樹
 
   papers:
@@ -191,6 +192,16 @@
       published_in: arXiv:2408.16261
       links:
         - Preprint: https://arxiv.org/abs/2408.16261
+
+    - authors:
+        - *adachi
+        - *yamaguchi
+        - *kumagai
+        - *hamagami
+      title: Test-time Adaptation for Regression by Subspace Alignment
+      published_in: arXiv:2410.03263
+      links:
+        - Preprint: https://arxiv.org/abs/2410.03263
 
 - section_name: Patent
   papers:
