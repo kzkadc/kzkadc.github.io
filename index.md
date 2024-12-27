@@ -12,6 +12,7 @@ Researcher at Computer and Data Science Laboratories, NTT.
 ## Activities
 ### Reviewer
 - NeurIPS 2024 (top reviewer)
+- CVPR 2024
 - BMVC 2023
 - IEEE Access (2024)
 
