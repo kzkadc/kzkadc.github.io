@@ -11,10 +11,9 @@ Researcher at Computer and Data Science Laboratories, NTT.
 
 ## Activities
 ### Reviewer
-- NeurIPS 2024
-- CVPR 2024
+- NeurIPS 2024 (top reviewer)
 - BMVC 2023
-
+- IEEE Access (2024)
 
 ### Lecture
 - "実データ分析によるデータ価値化の取り組み ―AI活用の事例紹介―", 東京理科大学 データサイエンス・AI概論, 2024年7月20日, 2024年12月21日
