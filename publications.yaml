@@ -225,3 +225,12 @@
       links:
         - WO: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022038722
         - JP: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7491382/15/ja
+
+    - authors:
+        - *adachi
+        - *yamaguchi
+      title: LEARNING DEVICE, LEARNING METHOD, AND LEARNING PROGRAM (学習装置、学習方法及び学習プログラム)
+      published_in: WO2022/176116, 特許第7613551号
+      links:
+        - WO: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022176116
+        - JP: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7613551/15/ja
