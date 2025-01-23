@@ -96,6 +96,16 @@
       links:
         - Paper: https://ieeexplore.ieee.org/document/10681056
 
+    - authors:
+        - *adachi
+        - *yamaguchi
+        - *kumagai
+        - *hamagami
+      title: Test-time Adaptation for Regression by Subspace Alignment
+      published_in: Accepted to 2025 International Conference on Learning Representations (ICLR).
+      links:
+        - Preprint: https://arxiv.org/abs/2410.03263
+
 - section_name: Conference Workshop / Domestic Conference (Japan)
   papers:
     - authors:
@@ -192,16 +202,6 @@
       published_in: arXiv:2408.16261
       links:
         - Preprint: https://arxiv.org/abs/2408.16261
-
-    - authors:
-        - *adachi
-        - *yamaguchi
-        - *kumagai
-        - *hamagami
-      title: Test-time Adaptation for Regression by Subspace Alignment
-      published_in: arXiv:2410.03263
-      links:
-        - Preprint: https://arxiv.org/abs/2410.03263
 
 - section_name: Patent
   papers:
