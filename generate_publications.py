@@ -15,14 +15,6 @@ def main():
             pub = paper['published_in']
             bib = f"- {authors}. \"**{title}**\" {pub}"
 
-            # links = []
-            # if url := paper.get("publication_url"):
-            #     links.append(f"[[Paper]]({url})")
-            # if url := paper.get("preprint_url"):
-            #     links.append(f"[[Preprint]]({url})")
-            # if len(links) >= 1:
-            #     bib += f"  \n{' '.join(links)}"
-
             link_list = []
             for link in paper.get("links", []):
                 text, url = next(iter(link.items()))
