@@ -9,7 +9,7 @@ def main():
 
     for section in publications:
         papers = []
-        for paper in section["papers"][::-1]:
+        for paper in section["papers"]:
             authors = ", ".join(paper["authors"])
             title = paper['title']
             pub = paper['published_in']
