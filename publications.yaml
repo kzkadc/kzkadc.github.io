@@ -122,17 +122,6 @@
         - Poster: /assets/publications/cvpr2024_tta-workshop.pdf
 
     - authors:
-        - *adachi_jp
-        - 佐々木 勇人
-        - 中田 雅也
-        - 濱津 文哉
-        - *hamagami_jp
-      title: 転移学習によるDeep Q-Networkの学習高速化に向けた検討
-      published_in: 情報処理学会 第79回全国大会講演論文集, 5M-09, 2017.
-      links:
-        - Paper: http://id.nii.ac.jp/1001/00180789/
-
-    - authors:
         - Taku Sasaki
         - *adachi
         - Shohei Enomoto
@@ -185,6 +174,17 @@
       published_in: 第16回情報科学技術フォーラム(FIT2017), CH-005, 2017.
       links:
         - Paper: https://www.ieice.org/publications/conference-FIT-DVDs/FIT2017/data/pdf/CH-005.pdf
+
+    - authors:
+        - *adachi_jp
+        - 佐々木 勇人
+        - 中田 雅也
+        - 濱津 文哉
+        - *hamagami_jp
+      title: 転移学習によるDeep Q-Networkの学習高速化に向けた検討
+      published_in: 情報処理学会 第79回全国大会講演論文集, 5M-09, 2017.
+      links:
+        - Paper: http://id.nii.ac.jp/1001/00180789/
 
 - section_name: Other Publication / Preprint
   papers:
