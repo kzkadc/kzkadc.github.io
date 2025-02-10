@@ -16,6 +16,7 @@
       title: Test-time Adaptation for Regression by Subspace Alignment
       published_in: Accepted to 2025 International Conference on Learning Representations (ICLR).
       links:
+        - Paper: https://openreview.net/forum?id=SXtl7NRyE5
         - Preprint: https://arxiv.org/abs/2410.03263
 
     - authors:
