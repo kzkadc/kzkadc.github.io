@@ -18,6 +18,7 @@
       links:
         - Paper: https://openreview.net/forum?id=SXtl7NRyE5
         - Preprint: https://arxiv.org/abs/2410.03263
+        - Code: https://github.com/kzkadc/regression-tta
 
     - authors:
         - Taku Sasaki
