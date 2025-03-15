@@ -13,7 +13,7 @@ Researcher at Computer and Data Science Laboratories, NTT.
 ### Reviewer
 - ICLR 2025
 - NeurIPS 2024 (top reviewer)
-- CVPR 2024
+- CVPR 2024, 2025
 - BMVC 2023
 - IEEE Access (2024)
 
