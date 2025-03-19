@@ -9,6 +9,15 @@
 
   papers:
     - authors:
+        - *yamaguchi
+        - Dewei Feng
+        - Sekitoshi Kanai
+        - *adachi
+        - Daiki Chijiwa
+      title: Post-pre-training for Modality Alignment in Vision-Language Foundation Models
+      published_in: Accepted to 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+
+    - authors:
         - *adachi
         - *yamaguchi
         - *kumagai
