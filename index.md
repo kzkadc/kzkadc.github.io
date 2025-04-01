@@ -1,6 +1,6 @@
 ## Kazuki Adachi (足立 一樹)
 
-Researcher at Computer and Data Science Laboratories, NTT.
+Researcher at Computer and Data Science Laboratories, NTT / Ph.D. student at Graduate School of Engineering Schience, Yokohama National University. 
 
 [[GitHub]](https://github.com/kzkadc) [[Google Scholar]](https://scholar.google.com/citations?user=hZC9Yy8AAAAJ)
 
