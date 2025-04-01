@@ -9,6 +9,18 @@
 
   papers:
     - authors:
+        - Sekitoshi Kanai
+        - Yasutoshi Ida
+        - *adachi
+        - Mihiro Uchida
+        - Tsukasa Yoshida
+        - *yamaguchi
+      title: Evaluating Time-Series Training Dataset through Lens of Spectrum in Deep State Space Models
+      published_in: Accepted to 2025 International Joint Conference on Neural Networks (IJCNN).
+      links:
+        - Preprint: https://arxiv.org/abs/2408.16261
+
+    - authors:
         - *yamaguchi
         - Dewei Feng
         - Sekitoshi Kanai
@@ -200,18 +212,6 @@
 
 - section_name: Other Publication / Preprint
   papers:
-    - authors:
-        - Sekitoshi Kanai
-        - Yasutoshi Ida
-        - *adachi
-        - Mihiro Uchida
-        - Tsukasa Yoshida
-        - *yamaguchi
-      title: Evaluating Time-Series Training Dataset through Lens of Spectrum in Deep State Space Models
-      published_in: arXiv:2408.16261
-      links:
-        - Preprint: https://arxiv.org/abs/2408.16261
-
     - authors:
         - *adachi_jp
         - 内田 美尋
