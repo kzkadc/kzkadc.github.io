@@ -28,6 +28,8 @@
         - Daiki Chijiwa
       title: Post-pre-training for Modality Alignment in Vision-Language Foundation Models
       published_in: Accepted to 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+      links:
+        - Preprint: https://arxiv.org/abs/2504.12717
 
     - authors:
         - *adachi
