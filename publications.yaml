@@ -226,11 +226,33 @@
     - authors:
         - *adachi
         - *yamaguchi
+        - Shohei Enomoto
+        - Taku Sasaki
+        - Yoshihiro Ikeda
+      title: MODEL ADAPTATION DEVICE, MODEL ADAPTATION METHOD, AND MODEL ADAPTATION PROGRAM (モデル適応装置、モデル適応方法、および、モデル適応プログラム)
+      published_in: PCT/JP2023/029364
+      links:
+        - WO: https://patentscope2.wipo.int/search/en/detail.jsf?docId=WO2025032828
+
+    - authors:
+        - Taku Sasaki
+        - *adachi
+        - *yamaguchi
+        - Yoshihiro Ikeda
+        - Shohei Enomoto
+      title: PREDICTION DEVICE, PREDICTION METHOD, AND PREDICTION PROGRAM (予測装置、予測方法及び予測プログラム)
+      published_in: PCT/JP2023/024461
+      links:
+        - WO: https://patentscope2.wipo.int/search/en/detail.jsf?docId=WO2025004356
+
+    - authors:
+        - *adachi
+        - *yamaguchi
       title: TRAINING DEVICE, TRAINING METHOD, AND TRAINING PROGRAM (学習装置、学習方法、および、学習プログラム)
-      published_in: WO2023/181222, 特願2024-509550
+      published_in: WO2023/181222, 特許第7670230号
       links:
         - WO: https://patentscope2.wipo.int/search/en/detail.jsf?docId=WO2023181222
-        - JP: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-509550/10/ja
+        - JP: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7670230/15/ja
   
     - authors:
         - *adachi
