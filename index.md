@@ -11,10 +11,12 @@ Researcher at Computer and Data Science Laboratories, NTT / Ph.D. student at Gra
 
 ## Activities
 ### Reviewer
+- ICML 2025
 - ICLR 2025
 - NeurIPS 2024 (top reviewer)
 - CVPR 2024, 2025
 - BMVC 2023
+- TMLR (2025)
 - IEEE Access (2024)
 
 ### Lecture
