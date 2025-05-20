@@ -37,7 +37,7 @@
         - *kumagai
         - *hamagami
       title: Test-time Adaptation for Regression by Subspace Alignment
-      published_in: Accepted to 2025 International Conference on Learning Representations (ICLR).
+      published_in: The Thirteenth International Conference on Learning Representations (ICLR 2025), 2025.
       links:
         - Paper: https://openreview.net/forum?id=SXtl7NRyE5
         - Preprint: https://arxiv.org/abs/2410.03263
