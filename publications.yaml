@@ -9,6 +9,16 @@
 
   papers:
     - authors:
+        - *kumagai
+        - Tomoharu Iwata
+        - Hiroshi Takahashi
+        - Taishi Nishiyama
+        - *adachi
+        - Yasuhiro Fujiwara
+      title: Positive-unlabeled AUC Maximization under Covariate Shift
+      published_in: Accepted to 2025 International Conference on Machine Learning (ICML).
+
+    - authors:
         - Sekitoshi Kanai
         - Yasutoshi Ida
         - *adachi
