@@ -22,6 +22,9 @@ def main():
             if len(link_list) >= 1:
                 bib += f"  \n{' '.join(link_list)}"
 
+            if "abstract" in paper:
+                bib += f" <details><summary>Abstract</summary><small>{paper['abstract']}</small></details>"
+
             papers.append(bib)
 
         papers = "\n".join(papers)
