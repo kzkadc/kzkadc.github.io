@@ -24,7 +24,7 @@ def main():
 
             if "abstract" in paper:
                 if "bibtex" in paper:
-                    bibtex = f"<details><pre><code>{paper['bibtex']}</code></pre></details>"
+                    bibtex = f"<details><summary>BibTeX</summary><pre><code>{paper['bibtex']}</code></pre></details>"
                 else:
                     bibtex = ""
                 bib += f" <details><small><em>{paper['abstract']}</em>{bibtex}</small></details>"
