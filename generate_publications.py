@@ -23,7 +23,11 @@ def main():
                 bib += f"  \n{' '.join(link_list)}"
 
             if "abstract" in paper:
-                bib += f" <details><small><em>{paper['abstract']}</em></small></details>"
+                if "bibtex" in paper:
+                    bibtex = f"<details><summary>BibTeX</summary><pre><code>{paper['bibtex']}</code></pre></details>"
+                else:
+                    bibtex = ""
+                bib += f" <details><small><em>{paper['abstract']}</em>{bibtex}</small></details>"
 
             papers.append(bib)
 
