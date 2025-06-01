@@ -1,5 +1,5 @@
 @import "{{ site.theme }}";
 
-i {
-    font-style: italic;
+details i {
+    font-style: italic !important;
 }
