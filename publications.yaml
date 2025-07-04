@@ -17,6 +17,10 @@
         - Yasuhiro Fujiwara
       title: Positive-unlabeled AUC Maximization under Covariate Shift
       published_in: Accepted to 2025 International Conference on Machine Learning (ICML).
+      links:
+        - Paper: https://openreview.net/forum?id=HQEPgICjBS
+      abstract: >-
+        Maximizing the area under the receiver operating characteristic curve (AUC) is a standard approach to imbalanced binary classification tasks. Existing AUC maximization methods typically assume that training and test distributions are identical. However, this assumption is often violated due to {\it a covariate shift}, where the input distribution can vary but the conditional distribution of the class label given the input remains unchanged. The importance weighting is a common approach to the covariate shift, which minimizes the test risk with importance-weighted training data. However, it cannot maximize the AUC. In this paper, to achieve this, we theoretically derive two estimators of the test AUC risk under the covariate shift by using positive and unlabeled (PU) data in the training distribution and unlabeled data in the test distribution. Our first estimator is calculated from importance-weighted PU data in the training distribution, and the second one is calculated from importance-weighted positive data in the training distribution and unlabeled data in the test distribution. We train classifiers by minimizing a weighted sum of the two AUC risk estimators that approximates the test AUC risk. Unlike the existing importance weighting, our method does not require negative labels and class-priors. We show the effectiveness of our method with six real-world datasets.
 
     - authors:
         - Sekitoshi Kanai
