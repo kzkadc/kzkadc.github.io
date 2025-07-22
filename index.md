@@ -19,7 +19,8 @@ Researcher at Computer and Data Science Laboratories, NTT / Ph.D. student at Gra
 - TMLR (2025)
 - IEEE Access (2024)
 
-### Lecture
+### Lecture / Invited Talk
+- "環境変化に自律適応可能なAIアルゴリズム", 横浜電子情報工学会 第7回\_DNJオープンカレッジ, 2025年7月19日.
 - "実データ分析によるデータ価値化の取り組み ―AI活用の事例紹介―", 東京理科大学 データサイエンス・AI概論, 2024年7月20日, 2024年12月21日
 - "企業研究者の生活", 横浜国立大学理工学部 大ゼミ, 2023年1月26日
 
