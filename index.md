@@ -29,7 +29,7 @@ Researcher at Computer and Data Science Laboratories, NTT / Ph.D. student at Gra
 
 ## Education
 - Apr. 2024 - present: Ph.D. student
-  - Specialization in Information Systems, Department of Mathematics, Physics, Electrical Engineering and Computer Science, Graduate School of Engineering Schience, Yokohama National University, Kanagawa, Japan
+  - Specialization in Information Systems, Department of Mathematics, Physics, Electrical Engineering and Computer Science, Graduate School of Engineering Science, Yokohama National University, Kanagawa, Japan
 - Apr. 2017 - Mar. 2019: Master of Engineering
   - Department of Physics, Electrical and Computer Engineering, Graduate School of Engineering, Yokohama National University, Kanagawa, Japan
 - Apr. 2013 - Mar. 2017: Bachelor of Engineering
