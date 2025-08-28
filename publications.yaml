@@ -52,7 +52,7 @@
         - *adachi
         - Daiki Chijiwa
       title: Post-pre-training for Modality Alignment in Vision-Language Foundation Models
-      published_in: Accepted to 2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR).
+      published_in: "2025 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Nashville, TN, USA, 2025, pp. 4256-4266, doi: 10.1109/CVPR52734.2025.00402."
       links:
         - Paper: https://openaccess.thecvf.com/content/CVPR2025/html/Yamaguchi_Post-pre-training_for_Modality_Alignment_in_Vision-Language_Foundation_Models_CVPR_2025_paper.html
         - Preprint: https://arxiv.org/abs/2504.12717
