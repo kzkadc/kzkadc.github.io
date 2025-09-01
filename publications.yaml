@@ -280,6 +280,18 @@
 - section_name: Other Publication / Preprint
   papers:
     - authors:
+        - 千々和 大輝
+        - 熊谷 充敏
+        - *adachi_jp
+        - 井田 安俊
+      title: AIコンステレーション®を支える先端AIアルゴリズム研究
+      published_in: "NTT技術ジャーナル, 2025年9月号, pp. 17-21, doi: 10.60249/25095004."
+      links:
+        - Article: https://journal.ntt.co.jp/article/36096
+      abstract: >-
+        AIコンステレーション®の基盤技術としての活用を志向する先端AI（人工知能）アルゴリズムの研究事例を紹介します。具体的には、学習結果の再利用を可能にするNTT発「学習転移」技術、偏ったデータの環境変化に低ラベリングコストで適応するための転移学習技術、数値予測モデル向けのテスト時適応技術、多種多様な大規模高次元データ分析のためのスパースモデリング技術について解説します。
+
+    - authors:
         - *adachi
         - *yamaguchi
         - *hamagami
