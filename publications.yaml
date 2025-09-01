@@ -191,7 +191,7 @@
         - *yamaguchi
         - *kumagai
       title: Test-time Adaptation for Regression by Subspace Alignment
-      published_in: 1st Workshop on Test-time Adaptation (Community Track), CVPR2024 Workshop.
+      published_in: (**special mention**) 1st Workshop on Test-time Adaptation (Community Track), CVPR2024 Workshop.
       links:
         - Paper: https://tta-cvpr2024.github.io/_downloads/5c8596c2798bf34ada89ed342bb08d51/matc_1_test_time_adaptation_for_regre.pdf
         - Poster: /assets/publications/cvpr2024_tta-workshop.pdf
