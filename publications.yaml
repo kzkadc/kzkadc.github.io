@@ -178,7 +178,7 @@
         - *adachi_jp
         - *hamagami_jp
       title: 注目領域に基づいたCNNの特徴マップに対する正則化
-      published_in: "電子情報通信学会論文誌D, Vol.J102-D, No.3, pp. 185-193, Mar.2019. DOI: 10.14923/transinfj.2018PDP0023"
+      published_in: "電子情報通信学会論文誌D, Vol.J102-D, No.3, pp. 185-193, Mar.2019. DOI: 10.14923/transinfj.2018PDP0023."
       links:
         - Paper: https://doi.org/10.14923/transinfj.2018PDP0023
       abstract: >-
@@ -231,7 +231,7 @@
         - *adachi_jp
         - 山口 真弥
       title: 深層学習モデルの判断根拠を利用した偏りを持つデータセットに対する精度向上
-      published_in: 電子情報通信学会 パターン認識・メディア理解(PRMU)研究会, 2021年3月. (**2020年度PRMU研究奨励賞**)
+      published_in: (**2020年度PRMU研究奨励賞**) 電子情報通信学会 パターン認識・メディア理解(PRMU)研究会, 2021年3月.
       links:
         - Paper: https://ken.ieice.org/ken/paper/20210305gCcs/eng/
       abstract: >-
@@ -307,7 +307,7 @@
         - *adachi_jp
         - 内田 美尋
       title: ICIP2023参加報告
-      published_in: 映像情報メディア学会誌, 2024年3月号 (Vol.78 No.2)
+      published_in: 映像情報メディア学会誌, 2024年3月号 (Vol.78 No.2).
 
 - section_name: Patent
   papers:
@@ -318,7 +318,7 @@
         - Taku Sasaki
         - Yoshihiro Ikeda
       title: MODEL ADAPTATION DEVICE, MODEL ADAPTATION METHOD, AND MODEL ADAPTATION PROGRAM (モデル適応装置、モデル適応方法、および、モデル適応プログラム)
-      published_in: PCT/JP2023/029364
+      published_in: PCT/JP2023/029364.
       links:
         - WO: https://patentscope2.wipo.int/search/en/detail.jsf?docId=WO2025032828
 
@@ -329,7 +329,7 @@
         - Yoshihiro Ikeda
         - Shohei Enomoto
       title: PREDICTION DEVICE, PREDICTION METHOD, AND PREDICTION PROGRAM (予測装置、予測方法及び予測プログラム)
-      published_in: PCT/JP2023/024461
+      published_in: PCT/JP2023/024461.
       links:
         - WO: https://patentscope2.wipo.int/search/en/detail.jsf?docId=WO2025004356
 
@@ -337,7 +337,7 @@
         - *adachi
         - *yamaguchi
       title: TRAINING DEVICE, TRAINING METHOD, AND TRAINING PROGRAM (学習装置、学習方法、および、学習プログラム)
-      published_in: WO2023/181222, 特許第7670230号
+      published_in: WO2023/181222, 特許第7670230号.
       links:
         - WO: https://patentscope2.wipo.int/search/en/detail.jsf?docId=WO2023181222
         - JP: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7670230/15/ja
@@ -346,7 +346,7 @@
         - *adachi
         - *yamaguchi
       title: LEARNING DEVICE, LEARNING METHOD, AND LEARNING PROGRAM (学習装置、学習方法及び学習プログラム)
-      published_in: WO2022/176116, 特許第7613551号
+      published_in: WO2022/176116, 特許第7613551号.
       links:
         - WO: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022176116
         - JP: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7613551/15/ja
@@ -356,7 +356,7 @@
         - Tetsuya Shioda
         - Machiko Toyoda
       title: IMPORTANCE DEGREE CALCULATION DEVICE, IMPORTANCE DEGREE CALCULATION METHOD, AND IMPORTANCE DEGREE CALCULATION PROGRAM (重要度計算装置、重要度計算方法及び重要度計算プログラム)
-      published_in: WO2022/038722, 特許第7491382号
+      published_in: WO2022/038722, 特許第7491382号.
       links:
         - WO: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022038722
         - JP: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7491382/15/ja
@@ -367,7 +367,7 @@
         - *adachi
         - Masakuni Ishii
       title: VISUALIZATION DEVICE, VISUALIZATION METHOD, AND VISUALIZATION PROGRAM (可視化装置、可視化方法および可視化プログラム)
-      published_in: WO2022/038713, 特許第7464132号
+      published_in: WO2022/038713, 特許第7464132号.
       links:
         - WO: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022038713
         - JP: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7464132/15/ja
