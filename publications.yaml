@@ -66,7 +66,7 @@
         - *kumagai
         - *hamagami
       title: Test-time Adaptation for Regression by Subspace Alignment
-      published_in: The Thirteenth International Conference on Learning Representations (ICLR 2025), 2025.
+      published_in: The Thirteenth International Conference on Learning Representations (ICLR 2025), pp. 77850-77874, 2025.
       links:
         - Paper: https://proceedings.iclr.cc/paper_files/paper/2025/hash/c19c4def293b6a63db1ff27143dd4f10-Abstract-Conference.html
         - Preprint: https://arxiv.org/abs/2410.03263
@@ -155,7 +155,7 @@
         - *kumagai
         - Yasuhiro Fujiwara
       title: Fast Regularized Discrete Optimal Transport With Group-Sparse Regularizers
-      published_in: Proceedings of the AAAI Conference on Artificial Intelligence, vol. 37, no. 7, June 2023, pp. 7980-7, doi:10.1609/aaai.v37i7.25965.
+      published_in: Proceedings of the AAAI Conference on Artificial Intelligence, vol. 37, no. 7, June 2023, pp. 7980-7987, doi:10.1609/aaai.v37i7.25965.
       links:
         - Paper: https://ojs.aaai.org/index.php/AAAI/article/view/25965
         - Preprint: https://arxiv.org/abs/2303.07597
@@ -180,7 +180,7 @@
       title: 注目領域に基づいたCNNの特徴マップに対する正則化
       published_in: "電子情報通信学会論文誌D, Vol.J102-D, No.3, pp. 185-193, Mar.2019. DOI: 10.14923/transinfj.2018PDP0023."
       links:
-        - Paper: https://doi.org/10.14923/transinfj.2018PDP0023
+        - Paper: https://search.ieice.org/bin/summary.php?id=j102-d_3_185&category=D&lang=J
       abstract: >-
         畳み込みニューラルネットワーク（CNN）は画像認識タスクにおいて高性能な特徴抽出を行えることが知られている．しかし，CNNには出力の解釈が困難であるという課題がある．これを緩和するために，近年CNNの予測に寄与した入力画像中の領域（注目領域）を可視化する手法が考案されている．しかし，不十分なデータセットで過学習したモデルの場合，タスクに本質的でない領域に注目している場合がある．このような場合にはモデルの精度が低下するとともに，その解釈も困難になる．そこで本論文では，学習時に注目領域が適切なものとなるように事前知識を与えて正則化を行う手法を提案する．実験により，データセットが少ない場合においても提案手法はモデルの予測の精度を維持しつつ，適切な注目領域が得られることを示す．
 
