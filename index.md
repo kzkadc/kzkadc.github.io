@@ -13,11 +13,14 @@ Researcher at Computer and Data Science Laboratories, NTT / Ph.D. student at Gra
 ### Reviewer
 - ICML 2025
 - ICLR 2025
-- NeurIPS 2024 (top reviewer)
+- NeurIPS 2024, 2025
+  - Top reviewer: 2024
 - CVPR 2024, 2025
 - BMVC 2023
 - TMLR (2025)
+- IEEE TIP (2025)
 - IEEE Access (2024)
+
 
 ### Lecture / Invited Talk
 - "実データ分析によるデータ価値化の取り組み ―AI活用の事例紹介―", 東京理科大学 データサイエンス・AI概論, 2025年7月19日, 2025年12月20日.
