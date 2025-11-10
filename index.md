@@ -11,6 +11,8 @@ Researcher at Computer and Data Science Laboratories, NTT / Ph.D. student at Gra
 
 ## Activities
 ### Reviewer
+- AAAI 2026
+- NLDL 2026
 - ICML 2025
 - ICLR 2025
 - NeurIPS 2024, 2025
