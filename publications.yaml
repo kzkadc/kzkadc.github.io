@@ -3,6 +3,7 @@
     - &adachi "**Kazuki Adachi**"
     - &adachi_jp "**足立 一樹**"
     - &yamaguchi Shin'ya Yamaguchi
+    - &yamaguchi_jp 山口 真弥
     - &kumagai Atsutoshi Kumagai
     - &hamagami Tomoki Hamagami
     - &hamagami_jp 濱上 知樹
@@ -187,6 +188,15 @@
 
 - section_name: Conference Workshop / Domestic Conference (Japan)
   papers:
+    - authors:
+        - *adachi_jp
+        - *yamaguchi_jp
+        - *hamagami_jp
+      title: Vision-language基盤モデルの画像破損に対するテスト時適応
+      published_in: 第28回情報論的学習理論ワークショップ (IBIS2025), 1b-R-17, 2025年11月12日.
+      links:
+        - Poster: /assets/publications/IBIS2025_poster.pdf
+
     - authors:
         - *adachi
         - *yamaguchi
