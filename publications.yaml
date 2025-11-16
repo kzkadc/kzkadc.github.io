@@ -283,6 +283,18 @@
 - section_name: Other Publication / Preprint
   papers:
     - authors:
+        - Daiki Chijiwa
+        - Atsutoshi Kumagai
+        - *adachi
+        - Yasutoshi Ida
+      title: Advanced Research on AI Algorithms for Supporting AI Constellation
+      published_in: "NTT Technical Review, Vol. 23, No. 11, pp. 40-46, Nov. 2025, doi: 10.53829/ntr202511fa4."
+      links:
+        - Article: https://ntt-review.jp/archive/ntttechnical.php?contents=ntr202511fa4.html
+      abstract: >-
+        The following four examples of NTT’s research on cutting-edge artificial intelligence (AI) algorithms to be used as basic techniques for AI Constellation—a large-scale AI collaboration technology—are introduced in this article: (i) “learning transfer,” which enables the reuse of learning results; (ii) “transfer learning” that can adapt to environmental changes in imbalanced data with low labeling costs; (iii) “test-time-adaptation” for numerical-prediction models; and (iv) “sparse modeling” for analyzing a wide variety of large-scale, high-dimensional data.
+
+    - authors:
         - 千々和 大輝
         - 熊谷 充敏
         - *adachi_jp
