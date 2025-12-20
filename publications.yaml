@@ -329,11 +329,20 @@
     - authors:
         - *adachi
         - *yamaguchi
+        - *kumagai
+      title: ADAPTATION DEVICE AND ADAPTATION METHOD (適応装置、および、適応方法)
+      published_in: WO/2025/224785, PCT/JP2024/015739.
+      links:
+        - WO: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2025224785
+
+    - authors:
+        - *adachi
+        - *yamaguchi
         - Shohei Enomoto
         - Taku Sasaki
         - Yoshihiro Ikeda
       title: MODEL ADAPTATION DEVICE, MODEL ADAPTATION METHOD, AND MODEL ADAPTATION PROGRAM (モデル適応装置、モデル適応方法、および、モデル適応プログラム)
-      published_in: PCT/JP2023/029364.
+      published_in: WO/2025/032828, PCT/JP2023/029364.
       links:
         - WO: https://patentscope2.wipo.int/search/en/detail.jsf?docId=WO2025032828
 
@@ -344,7 +353,7 @@
         - Yoshihiro Ikeda
         - Shohei Enomoto
       title: PREDICTION DEVICE, PREDICTION METHOD, AND PREDICTION PROGRAM (予測装置、予測方法及び予測プログラム)
-      published_in: PCT/JP2023/024461.
+      published_in: WO/2025/004356, PCT/JP2023/024461.
       links:
         - WO: https://patentscope2.wipo.int/search/en/detail.jsf?docId=WO2025004356
 
@@ -352,7 +361,7 @@
         - *adachi
         - *yamaguchi
       title: TRAINING DEVICE, TRAINING METHOD, AND TRAINING PROGRAM (学習装置、学習方法、および、学習プログラム)
-      published_in: WO2023/181222, 特許第7670230号.
+      published_in: WO2023/181222, PCT/JP2022/013753, 特許第7670230号.
       links:
         - WO: https://patentscope2.wipo.int/search/en/detail.jsf?docId=WO2023181222
         - JP: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7670230/15/ja
@@ -361,7 +370,7 @@
         - *adachi
         - *yamaguchi
       title: LEARNING DEVICE, LEARNING METHOD, AND LEARNING PROGRAM (学習装置、学習方法及び学習プログラム)
-      published_in: WO2022/176116, 特許第7613551号.
+      published_in: WO2022/176116, PCT/JP2021/006158, 特許第7613551号.
       links:
         - WO: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022176116
         - JP: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7613551/15/ja
@@ -371,7 +380,7 @@
         - Tetsuya Shioda
         - Machiko Toyoda
       title: IMPORTANCE DEGREE CALCULATION DEVICE, IMPORTANCE DEGREE CALCULATION METHOD, AND IMPORTANCE DEGREE CALCULATION PROGRAM (重要度計算装置、重要度計算方法及び重要度計算プログラム)
-      published_in: WO2022/038722, 特許第7491382号.
+      published_in: WO2022/038722, PCT/JP2020/031336, 特許第7491382号.
       links:
         - WO: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022038722
         - JP: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7491382/15/ja
@@ -382,7 +391,7 @@
         - *adachi
         - Masakuni Ishii
       title: VISUALIZATION DEVICE, VISUALIZATION METHOD, AND VISUALIZATION PROGRAM (可視化装置、可視化方法および可視化プログラム)
-      published_in: WO2022/038713, 特許第7464132号.
+      published_in: WO2022/038713, PCT/JP2020/031277, 特許第7464132号.
       links:
         - WO: https://patentscope.wipo.int/search/en/detail.jsf?docId=WO2022038713
         - JP: https://www.j-platpat.inpit.go.jp/c1801/PU/JP-7464132/15/ja
