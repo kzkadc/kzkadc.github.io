@@ -346,7 +346,9 @@
         - *adachi_jp
         - 内田 美尋
       title: ICIP2023参加報告
-      published_in: 映像情報メディア学会誌, 2024年3月号 (Vol.78 No.2).
+      published_in: "映像情報メディア学会誌, 2024年3月号 (Vol.78 No.2), pp. 171-174, doi: 10.3169/itej.78.175."
+      links:
+        - Article: https://www.jstage.jst.go.jp/article/itej/78/2/78_175/_article/-char/ja/
 
 - section_name: Patent
   papers:
