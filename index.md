@@ -19,9 +19,10 @@ Researcher at Computer and Data Science Laboratories, NTT / Ph.D. student at Gra
   - Top reviewer: 2024
 - CVPR 2024, 2025
 - BMVC 2023
-- TMLR (2025)
+- TMLR (2025, 2026)
 - IEEE TIP (2025)
 - IEEE Access (2024)
+- 電子情報通信学会論文誌D (2026)
 
 
 ### Lecture / Invited Talk
