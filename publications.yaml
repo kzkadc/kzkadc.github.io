@@ -17,7 +17,8 @@
       title: 共分散を考慮した特徴分布マッチングによるテスト時適応
       published_in: "電子情報通信学会論文誌D, Vol.J109-D, No.7, Jul.2026. (掲載予定)"
       links:
-        - Paper: https://search.ieice.org/bin/summary_advpub.php?id=2025JDP7044&category=D&lang=J&abst=
+        - Paper: https://search.ieice.org/bin/summary.php?id=j109-d_7_344&category=D&year=2026&lang=J&abst=
+
       abstract: >-
         深層学習モデルは通常，学習時のデータ分布とモデル運用時のデータ（テストデータ）の分布が同一であることを仮定しているが，実際にはこの仮定が成り立たない分布シフトが発生する状況が起こり得る．
         分布シフトが発生するとモデル運用時の精度低下につながる．
