@@ -330,7 +330,7 @@
       links:
         - Article: https://ntt-review.jp/archive/ntttechnical.php?contents=ntr202511fa4.html
       abstract: >-
-        The following four examples of NTT’s research on cutting-edge artificial intelligence (AI) algorithms to be used as basic techniques for AI Constellation—a large-scale AI collaboration technology—are introduced in this article: (i) “learning transfer,” which enables the reuse of learning results; (ii) “transfer learning” that can adapt to environmental changes in imbalanced data with low labeling costs; (iii) “test-time-adaptation” for numerical-prediction models; and (iv) “sparse modeling” for analyzing a wide variety of large-scale, high-dimensional data.
+        The following four examples of NTT's research on cutting-edge artificial intelligence (AI) algorithms to be used as basic techniques for AI Constellation—a large-scale AI collaboration technology—are introduced in this article: (i) "learning transfer," which enables the reuse of learning results; (ii) "transfer learning" that can adapt to environmental changes in imbalanced data with low labeling costs; (iii) "test-time-adaptation" for numerical-prediction models; and (iv) "sparse modeling" for analyzing a wide variety of large-scale, high-dimensional data.
 
     - authors:
         - 千々和 大輝
@@ -338,7 +338,7 @@
         - *adachi_jp
         - 井田 安俊
       title: AIコンステレーション®を支える先端AIアルゴリズム研究
-      published_in: "NTT技術ジャーナル, 2025年9月号, pp. 17-21, doi: 10.60249/25095004."
+      published_in: "NTT技術ジャーナル, Vol. 37, No. 9, pp. 17-21, Sep. 2025, doi: 10.60249/25095004."
       links:
         - Article: https://journal.ntt.co.jp/article/36096
       abstract: >-
