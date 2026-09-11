@@ -321,6 +321,34 @@
 - section_name: Other Publication / Preprint
   papers:
     - authors:
+        - *kumagai
+        - Tomoharu Iwata
+        - Hiroshi Takahashi
+        - Taishi Nishiyama
+        - *adachi
+        - Yasuhiro Fujiwara
+      title: Importance Weighting for Unlabeled-unlabeled Learning under Distribution Shift
+      published_in: arXiv preprint arXiv:2609.10994 (2026).
+      links:
+        - Preprint: https://arxiv.org/abs/2609.10994
+      abstract: >-
+        Unlabeled-unlabeled (UU) learning allows us to learn a binary classifier from two sets of unlabeled data with different class-priors. It is a general framework because it includes a wide variety of supervised learning such as positive-unlabeled (PU) learning, noisy label learning, and similarity-based learning. Existing UU learning assumes that the test and training distributions have the same class-conditional densities. However, this assumption rarely holds in practice due to distribution shifts. This paper proposes a distribution shift adaptation method for UU learning that uses UU data in the training distribution and a few UU data in the test distribution. The proposed method is based on the importance weighting, which minimizes the test risk by using training data with estimated importance weights. Although existing importance weighting methods cannot handle UU data, we show that it can be done in a principled manner. Thanks to the generality of UU learning, our method can handle various learning problems such as PU and noisy label learning under distribution shift within a single framework while existing methods are usually tailored to a specific problem. Moreover, it does not require any assumption of the shift types such as covariate shift. We experimentally demonstrate the effectiveness of the proposed method with real-world datasets.
+
+    - authors:
+        - *kumagai
+        - Tomoharu Iwata
+        - Hiroshi Takahashi
+        - Taishi Nishiyama
+        - *adachi
+        - Yasuhiro Fujiwara
+      title: AUC Maximization from Biased Positive-unlabeled Data with Confidence
+      published_in: arXiv preprint arXiv:2609.10928 (2026).
+      links:
+        - Preprint: https://arxiv.org/abs/2609.10928
+      abstract: >-
+        Maximizing the area under the receiver operating characteristic curve (AUC) is a standard approach to imbalanced binary classification. Although positive and negative data are required for maximizing the AUC, negative data are often difficult to collect in some real-world applications due to privacy concerns or the need for specialized expertise to annotate them. Thus, AUC maximization from positive and unlabeled (PU) data has been attracting attention. Existing methods assume that labeled positive data are unbiased samples from the true positive distribution. However, this ideal assumption is often violated in practice. In this paper, we propose a method to maximize the AUC from biased PU data. To address the bias, our key idea is to exploit {\it confidence}, i.e., the probability that an instance is positive, associated with the small number of labeled positive data. We derive an estimator of the AUC risk using biased PU data with confidence, enabling AUC maximization under such bias. We further show that the rewritten AUC risk induces a Bayes-optimal AUC ranking even when the available confidence is any strictly increasing transformation of the true posterior probability. We experimentally show the effectiveness of our method on eight real-world datasets.
+
+    - authors:
         - Daiki Chijiwa
         - Atsutoshi Kumagai
         - *adachi
