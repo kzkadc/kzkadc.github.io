@@ -323,6 +323,20 @@
     - authors:
         - *kumagai
         - Tomoharu Iwata
+        - Taishi Nishiyama
+        - Hiroshi Takahashi
+        - *adachi
+        - Yasuhiro Fujiwara
+      title:
+      published_in: arXiv preprint arXiv:2610.00284 (2026).
+      links:
+        - Preprint: https://arxiv.org/abs/2610.00284
+      abstract: >-
+        The partial area under the receiver operating characteristic curve (pAUC) is an important performance metric for binary classification that summarizes true positive rates within a specific range of false positive rates (FPRs). Classifiers that achieve high pAUC need to be obtained in many real-world applications such as cybersecurity, medical care, and advertising. Although many methods for maximizing the pAUC have been proposed, they typically require both labeled positive and negative data for training. However, in practice, labeled negative data are often difficult to collect due to privacy concerns or the need for high expertise to annotate them. In this paper, we propose a method for maximizing the pAUC from positive and unlabeled (PU) data without negative data. Within an empirical risk minimization framework, we show that the pAUC, including its FPR-dependent thresholds, can be represented using only the positive and marginal densities, and derive an empirical estimator from PU data. A classifier is then trained by maximizing the derived smoothed empirical pAUC estimator. We experimentally demonstrate the effectiveness of the proposed method with ten real-world datasets.
+
+    - authors:
+        - *kumagai
+        - Tomoharu Iwata
         - Hiroshi Takahashi
         - Taishi Nishiyama
         - *adachi
