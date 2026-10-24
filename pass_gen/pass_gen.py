@@ -1,7 +1,5 @@
 import hashlib
 
-from js import document, navigator
-
 
 def convert_base(x: int, limited_characters: bool = False) -> str:
     if limited_characters:
